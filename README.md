@@ -22,18 +22,22 @@ Images (December temp and precipitation descriptions)
 * The data between the 2 months are fairly similar in that they have an average temperature around 75˚F (June) and 71˚F (December). Since the temperature   
   has a slight difference, it shows consistency throughout the year (across seasons).  The weather doesn’t show massive fluctuation throughout the year 
   like NYC, where its 88˚F during June and 44˚F in December. 
+  
         * While the temperatures show slight variance in degree, December has a higher average precipitation of 0.217 inches compared to that of June which 
           is on average 0.136 inches. 
 
 * The minimum temperature shows the largest gap between December (56˚F) and June (64˚F). These lower temperatures aren’t ideal for ice cream and/or 
   surfing. When thinking of the lower temperatures their clientele needs to be taken into account. Will most of the clientele be guests or avid surfers? 
   Guest may not feel comfortable surfing in colder weather or may not have the appropriate wet suit to accommodate the difference in water temperature. 
+  
         * The same applies to the maximum precipitation, if it’s raining up to 6 inches in December and 4 inches in June, will people feel comfortable to 
           surf in those conditions. While the precipitation isn’t normal for neither month, the odd day of immense rainfall may prove to hurt the business 
           on those days. 
+          
 *	The frequency of the temperatures in June remains constant between 70-80˚F, which is weather many people would deem “beach weather”.  The frequency of 
   December temperatures seems to be around 67- 76˚F, which is not radically different that June. During December 71˚F seems to be the most frequent 
   temperature, which is only 4˚F different from the average temperature of June.  
+  
 *	An additional query provided, via scatterplot, shows the correlation between the temperature and precipitation. As the temperature increases the amount 
   of precipitation decreases, in both graphs. In both the graphs the odds of the precipitation being more than 3 inches is incredibly uncommon, but 
   possible. The scatterplot proves the precipitation and temperature, throughout the year,  wouldn’t have a detrimental impact on the success of the shop, 
