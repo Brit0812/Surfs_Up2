@@ -6,7 +6,7 @@
 
 
 
-The purpose is to analysis the provided metrological data, which had been stored in a SQLite database(.sqlte), to prove to investors that opening a Surf n’ Shake shop in Hawaii would be a wise investment opportunity. The store would sell/rent surf boards accompanied by a cold sweet delightful ice cream, year-round. The issue at hand is the investors fear the lack of success, as they have invested in similar business, which failed due to weather. In order to convince the investors, the data needs to prove the weather won’t have a detrimental impact on the business. 
+The purpose is to analysis the provided meteorological data, which had been stored in a SQLite database(.sqlte), to prove to investors that opening a Surf n’ Shake shop in Hawaii would be a wise investment opportunity. The store would sell/rent surf boards accompanied by a cold sweet delightful ice cream, year-round. The issue at hand is the investors fear the lack of success, as they have invested in similar business, which failed due to weather. In order to convince the investors, the data needs to prove the weather won’t have a detrimental impact on the business. 
 
 
 The provided data (hawaii.sqlite) was stored in a SQLite database and in order to create queries from the data, for our purposes we used, SQLAlchemy. After importing the SQLAlchemy dependencies in Jupyter notebook and pulling the data from the database Flask was used to depict the results. When flask was run in the terminal a web address was provided http://127.0.0.1:5000 . 
